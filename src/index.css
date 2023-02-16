@@ -1,0 +1,36 @@
+/* list styles */
+ul {
+  list-style-type: none;
+  background-color: beige;
+  margin: 10px;
+}
+
+/* letter tiles styling */
+.letters {
+  margin: 10px;
+}
+/*header styles */
+h1 {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
+
+/*guess work styling*/
+.word {
+  font-size: 30px;
+  background-color: grey;
+  margin: 0 50px 20px 50px;
+  border-radius: 20px;
+  color: azure;
+  font-weight: bolder;
+  padding: 20px;
+}
+
+/*guesses left styling*/
+.guesses {
+  background-color: red;
+  margin: 0 150px 20px 150px;
+  font-weight: bold;
+}
